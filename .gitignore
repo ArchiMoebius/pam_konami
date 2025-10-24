@@ -1,0 +1,3 @@
+*.so
+zig-out
+.zig-cache
